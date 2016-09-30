@@ -249,10 +249,10 @@ endif
 "追加した設定
 
 " バックアップファイルの作成ディレクトリ指定
-set backupdir=c:/temp
+"set backupdir=c:/temp
 
 " undoファイルの作成ディレクトリ指定
-set undodir=c:/temp
+"set undodir=c:/temp
 
 " カーソル行の背景色を変える
 set cursorline

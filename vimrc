@@ -248,11 +248,11 @@ endif
 "------------------------------------------------------------------------------
 "追加した設定
 
-" バックアップファイルの作成ディレクトリ指定
-"set backupdir=c:/temp
+" バックアップファイルを作成しない
+set nobackup
 
 " undoファイルの作成ディレクトリ指定
-"set undodir=c:/temp
+" set undodir=c:/vim/temp
 
 " カーソル行の背景色を変える
 set cursorline
